@@ -86,5 +86,3 @@ I use GItHub to version the code.
 ## Acknowledgments
 
 Thanks to [FrontEnd Mentor](https://www.frontendmentor.io/) for the opportunity to learn more in my HTML integrator carreer !
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
