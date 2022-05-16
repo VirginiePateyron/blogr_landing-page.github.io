@@ -1,6 +1,6 @@
 # Frontend Mentor - Blogr landing page solution
 
-<img src="/design/mockup-blogr_both.png" alt="Présentation d'un aperçu de la page d'accueil du site Blogr" />
+<img src="/images/mockup-blogr_both.png" alt="Présentation d'un aperçu de la page d'accueil du site Blogr" />
 
 This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
